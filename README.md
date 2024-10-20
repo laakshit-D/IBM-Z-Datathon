@@ -20,5 +20,7 @@ By providing a scalable, automated approach to content moderation, this solution
 
 # OUTPUT:
 
+![image](https://github.com/user-attachments/assets/49913c12-b3dd-422f-bb6b-71f12efe0386)
+
 # RESULT:
 Thus,the output is verified successfully
